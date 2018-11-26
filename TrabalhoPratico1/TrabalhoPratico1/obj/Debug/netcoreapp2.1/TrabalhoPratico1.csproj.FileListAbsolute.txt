@@ -1,0 +1,11 @@
+C:\Users\alipi\Desktop\ADS\Trabalho Pratico\TrabalhoPratico1\TrabalhoPratico1\bin\Debug\netcoreapp2.1\TrabalhoPratico1.deps.json
+C:\Users\alipi\Desktop\ADS\Trabalho Pratico\TrabalhoPratico1\TrabalhoPratico1\bin\Debug\netcoreapp2.1\TrabalhoPratico1.runtimeconfig.json
+C:\Users\alipi\Desktop\ADS\Trabalho Pratico\TrabalhoPratico1\TrabalhoPratico1\bin\Debug\netcoreapp2.1\TrabalhoPratico1.runtimeconfig.dev.json
+C:\Users\alipi\Desktop\ADS\Trabalho Pratico\TrabalhoPratico1\TrabalhoPratico1\bin\Debug\netcoreapp2.1\TrabalhoPratico1.dll
+C:\Users\alipi\Desktop\ADS\Trabalho Pratico\TrabalhoPratico1\TrabalhoPratico1\bin\Debug\netcoreapp2.1\TrabalhoPratico1.pdb
+C:\Users\alipi\Desktop\ADS\Trabalho Pratico\TrabalhoPratico1\TrabalhoPratico1\obj\Debug\netcoreapp2.1\TrabalhoPratico1.csprojAssemblyReference.cache
+C:\Users\alipi\Desktop\ADS\Trabalho Pratico\TrabalhoPratico1\TrabalhoPratico1\obj\Debug\netcoreapp2.1\TrabalhoPratico1.csproj.CoreCompileInputs.cache
+C:\Users\alipi\Desktop\ADS\Trabalho Pratico\TrabalhoPratico1\TrabalhoPratico1\obj\Debug\netcoreapp2.1\TrabalhoPratico1.AssemblyInfoInputs.cache
+C:\Users\alipi\Desktop\ADS\Trabalho Pratico\TrabalhoPratico1\TrabalhoPratico1\obj\Debug\netcoreapp2.1\TrabalhoPratico1.AssemblyInfo.cs
+C:\Users\alipi\Desktop\ADS\Trabalho Pratico\TrabalhoPratico1\TrabalhoPratico1\obj\Debug\netcoreapp2.1\TrabalhoPratico1.dll
+C:\Users\alipi\Desktop\ADS\Trabalho Pratico\TrabalhoPratico1\TrabalhoPratico1\obj\Debug\netcoreapp2.1\TrabalhoPratico1.pdb
