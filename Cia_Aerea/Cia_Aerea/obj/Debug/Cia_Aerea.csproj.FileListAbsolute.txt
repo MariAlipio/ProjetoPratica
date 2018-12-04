@@ -1,0 +1,7 @@
+E:\ADS\Cia_Aerea\Cia_Aerea\bin\Debug\Cia_Aerea.exe.config
+E:\ADS\Cia_Aerea\Cia_Aerea\bin\Debug\Cia_Aerea.exe
+E:\ADS\Cia_Aerea\Cia_Aerea\bin\Debug\Cia_Aerea.pdb
+E:\ADS\Cia_Aerea\Cia_Aerea\obj\Debug\Cia_Aerea.csprojAssemblyReference.cache
+E:\ADS\Cia_Aerea\Cia_Aerea\obj\Debug\Cia_Aerea.csproj.CoreCompileInputs.cache
+E:\ADS\Cia_Aerea\Cia_Aerea\obj\Debug\Cia_Aerea.exe
+E:\ADS\Cia_Aerea\Cia_Aerea\obj\Debug\Cia_Aerea.pdb
